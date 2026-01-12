@@ -1,12 +1,12 @@
 # Productivity Activity Recommender
 
-This project is a personal experiment using my own productivity data to recommend the best activity for any given moment—whether it’s time to study, exercise, socialize, relax, sleep, or work. I built this to better understand my habits and to learn how data science and web development can come together to create something useful and interactive.
+This project is a personal experiment using my own productivity data to recommend the best activity for any given momentâ€”whether itâ€™s time to study, exercise, socialize, relax, sleep, or work. I built this to better understand my habits and to learn how data science and web development can come together to create something useful and interactive.
 
 ---
 
 ## Why I Built This
 
-I’ve always been curious about how my daily routines affect my productivity and well-being. By logging my activities and moods, I wanted to see if I could use that data to make smarter decisions about what to do next. This project was a way to combine my interest in self-improvement with my desire to learn more about full-stack development and machine learning.
+Iâ€™ve always been curious about how my daily routines affect my productivity and well-being. By logging my activities and moods, I wanted to see if I could use that data to make smarter decisions about what to do next. This project was a way to combine my interest in self-improvement with my desire to learn more about full-stack development and machine learning.
 
 ---
 
@@ -36,7 +36,7 @@ I’ve always been curious about how my daily routines affect my productivity and 
 ## Key Features
 
 - **Personalized Activity Recommendations:** Uses your input and my own productivity data to suggest the best activity for you.
-- **Interactive Visualizations:** Explore feature analysis charts to understand the model’s decisions.
+- **Interactive Visualizations:** Explore feature analysis charts to understand the modelâ€™s decisions.
 - **Modern UI:** Clean, responsive interface built with React and Tailwind CSS.
 - **API-Driven:** Flask backend serves predictions and visualizations to the frontend.
 - **Easy Deployment:** Optionally containerized with Docker for simple setup.
@@ -87,13 +87,11 @@ The frontend will start on `http://localhost:3000`.
 
 ## Screenshots
 
-*(Add a screenshot here if you like!)*
 
 ---
 
 ## Try It Live
 
-*(Add your deployed link here once you deploy to Vercel, Netlify, or similar)*
 
 ---
 
