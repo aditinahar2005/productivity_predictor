@@ -78,14 +78,8 @@ The frontend will start on `http://localhost:3000`.
 
 ---
 
-## How to Test
-
-### Frontend
-
-
----
-
 ## Screenshots
+<img width="798" height="887" alt="image" src="https://github.com/user-attachments/assets/77806dfc-5b88-4894-9d55-512e3b45bdb3" />
 
 
 ---
